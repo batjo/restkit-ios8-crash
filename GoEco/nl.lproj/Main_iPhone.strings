@@ -1,0 +1,126 @@
+
+/* Class = "IBUILabel"; text = "GEFELICITEERD"; ObjectID = "1Pa-DX-nHR"; */
+"1Pa-DX-nHR.text" = "GEFELICITEERD";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "1cf-Jr-E7B"; */
+"1cf-Jr-E7B.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Benedenwoning met tuin"; ObjectID = "1mL-pr-gAI"; */
+"1mL-pr-gAI.normalTitle" = "Benedenwoning met tuin";
+
+/* Class = "IBUILabel"; text = "30"; ObjectID = "2tv-q6-ZhJ"; */
+"2tv-q6-ZhJ.text" = "30";
+
+/* Class = "IBUIViewController"; title = "First"; ObjectID = "CZ4-MO-1fc"; */
+"CZ4-MO-1fc.title" = "First";
+
+/* Class = "IBUILabel"; text = "Hier komt een regeltje tekst dat je hier je gemeente moet kiezen en waarom je dat moet doen."; ObjectID = "EVr-1G-TLB"; */
+"EVr-1G-TLB.text" = "Hier komt een regeltje tekst dat je hier je gemeente moet kiezen en waarom je dat moet doen.";
+
+/* Class = "IBUILabel"; text = "7"; ObjectID = "Faq-ZI-i4G"; */
+"Faq-ZI-i4G.text" = "7";
+
+/* Class = "IBUITabBarItem"; title = "Tuin"; ObjectID = "GcW-kz-6H0"; */
+"GcW-kz-6H0.title" = "Tuin";
+
+/* Class = "IBUITabBarItem"; title = "Info"; ObjectID = "I3Z-LU-Cge"; */
+"I3Z-LU-Cge.title" = "Info";
+
+/* Class = "IBUINavigationItem"; title = "Over deze app"; ObjectID = "KRz-qt-Ooc"; */
+"KRz-qt-Ooc.title" = "Over deze app";
+
+/* Class = "IBUILabel"; text = "KOSTEN"; ObjectID = "KTi-8d-5zT"; */
+"KTi-8d-5zT.text" = "KOSTEN";
+
+/* Class = "IBUINavigationItem"; title = "Acties"; ObjectID = "MBf-6M-GAg"; */
+"MBf-6M-GAg.title" = "Acties";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MK3-qb-krm"; */
+"MK3-qb-krm.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Gemeentes"; ObjectID = "MkO-B2-acz"; */
+"MkO-B2-acz.title" = "Gemeentes";
+
+/* Class = "IBUILabel"; text = "MOEILIJKHEID"; ObjectID = "NKv-Hj-W77"; */
+"NKv-Hj-W77.text" = "MOEILIJKHEID";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "NzF-M2-BeJ"; */
+"NzF-M2-BeJ.text" = "Label";
+
+/* Class = "IBUILabel"; text = "JA"; ObjectID = "QBh-qn-qVP"; */
+"QBh-qn-qVP.text" = "JA";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "QFU-Vf-dfR"; */
+"QFU-Vf-dfR.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Woning met dak en tuin"; ObjectID = "QLL-1g-kUu"; */
+"QLL-1g-kUu.normalTitle" = "Woning met dak en tuin";
+
+/* Class = "IBUIButton"; normalTitle = "Kies hier je gemeente"; ObjectID = "RbZ-lH-G7c"; */
+"RbZ-lH-G7c.normalTitle" = "Kies hier je gemeente";
+
+/* Class = "IBUIButton"; normalTitle = "Water"; ObjectID = "SOe-B0-Bhs"; */
+"SOe-B0-Bhs.normalTitle" = "Water";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "U0S-aW-j3A"; */
+"U0S-aW-j3A.text" = "Title";
+
+/* Class = "IBUILabel"; text = "JOUW SCORE"; ObjectID = "WSH-zF-PwT"; */
+"WSH-zF-PwT.text" = "JOUW SCORE";
+
+/* Class = "IBUIViewController"; title = "StartViewController"; ObjectID = "WZH-ld-OI5"; */
+"WZH-ld-OI5.title" = "StartViewController";
+
+/* Class = "IBUITabBarItem"; title = "Ik"; ObjectID = "aeW-0I-qzc"; */
+"aeW-0I-qzc.title" = "Ik";
+
+/* Class = "IBUINavigationItem"; title = "Benodigdheden"; ObjectID = "b24-jd-zPm"; */
+"b24-jd-zPm.title" = "Benodigdheden";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "b2x-ey-RY8"; */
+"b2x-ey-RY8.text" = "Titel";
+
+/* Class = "IBUIButton"; normalTitle = "Bovenwoning met dak"; ObjectID = "bea-M4-lek"; */
+"bea-M4-lek.normalTitle" = "Bovenwoning met dak";
+
+/* Class = "IBUITabBarItem"; title = "Acties"; ObjectID = "dje-Xd-wMx"; */
+"dje-Xd-wMx.title" = "Acties";
+
+/* Class = "IBUILabel"; text = "Dit kan een hele lange tekst zijn. Maar dan ook echt heel lang"; ObjectID = "gfO-y7-Nhj"; */
+"gfO-y7-Nhj.text" = "Dit kan een hele lange tekst zijn. Maar dan ook echt heel lang";
+
+/* Class = "IBUITabBarItem"; title = "Ambitie"; ObjectID = "ggj-jG-l8r"; */
+"ggj-jG-l8r.title" = "Ambitie";
+
+/* Class = "IBUINavigationItem"; title = "Ambitie"; ObjectID = "giU-sK-aQu"; */
+"giU-sK-aQu.title" = "Ambitie";
+
+/* Class = "IBUILabel"; text = "NEE"; ObjectID = "hFP-en-nhR"; */
+"hFP-en-nhR.text" = "NEE";
+
+/* Class = "IBUIButton"; normalTitle = "Appartement met balkon"; ObjectID = "ier-EE-IBw"; */
+"ier-EE-IBw.normalTitle" = "Appartement met balkon";
+
+/* Class = "IBUILabel"; text = "10"; ObjectID = "lUe-Mm-ckl"; */
+"lUe-Mm-ckl.text" = "10";
+
+/* Class = "IBUIButton"; normalTitle = "Beestjes"; ObjectID = "mmW-i5-aWn"; */
+"mmW-i5-aWn.normalTitle" = "Beestjes";
+
+/* Class = "IBUILabel"; text = "Type woning"; ObjectID = "nRZ-1G-SSe"; */
+"nRZ-1G-SSe.text" = "Type woning";
+
+/* Class = "IBUIButton"; normalTitle = "Label"; ObjectID = "olU-gE-Zuz"; */
+"olU-gE-Zuz.normalTitle" = "Label";
+
+/* Class = "IBUILabel"; text = "Tegels eruit, groen erin\n"; ObjectID = "sUb-xK-pW0"; */
+"sUb-xK-pW0.text" = "Tegels eruit, groen erin\n";
+
+/* Class = "IBUILabel"; text = "ONDERHOUD"; ObjectID = "t8J-Jg-fkh"; */
+"t8J-Jg-fkh.text" = "ONDERHOUD";
+
+/* Class = "IBUIButton"; normalTitle = "Hitte"; ObjectID = "upJ-Um-XUU"; */
+"upJ-Um-XUU.normalTitle" = "Hitte";
+
+/* Class = "IBUINavigationItem"; title = "Mijn Score"; ObjectID = "x7I-BB-9ze"; */
+"x7I-BB-9ze.title" = "Mijn Score";
